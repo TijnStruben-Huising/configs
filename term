@@ -1,1 +1,8 @@
 testing zsh instead of bash
+by 
+$ chsh
+$ /bin/zsh 
+instead of /bin/bash
+
+https://www.youtube.com/watch?v=bCeqdGiKNDQ
+using power10k
